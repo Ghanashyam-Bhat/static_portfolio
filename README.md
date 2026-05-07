@@ -5,7 +5,7 @@ https://github.com/Ghanashyam-Bhat/portfolio
 
 Later downloaded as html to host using github pages
 ```
-wget --recursive --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains portfolio.pinakatech.in --no-parent http://portfolio.pinakatech.in
+wget --recursive --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains shyam.pinakatech.in --no-parent http://shyam.pinakatech.in
 ```
 
 Fix the absolute image paths inside the downloaded JavaScript files
